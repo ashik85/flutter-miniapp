@@ -1,1 +1,1 @@
-# flutter-miniapp
+An interactive Flutter app (Android Studio) by a beginner
